@@ -1,9 +1,10 @@
 ### Terraform
-Welcome to the "Terraform" repository - your hub for Infrastructure as Code (IaC) using Terraform!
+
+Welcome to the "Terraform" github repository - your hub for Infrastructure as Code (IaC) using Terraform!
 
 Terraform is an open-source infrastructure automation tool that allows you to define and manage cloud infrastructure declaratively. This repository serves as your go-to resource for managing your infrastructure in a scalable, repeatable, and efficient manner.
 
-### Key Features:
+### Terraform Key Features:
 
 1. Infrastructure as Code (IaC): Leverage the power of declarative code to define your infrastructure, making it versionable, maintainable, and collaborative.
 2. Multi-Cloud Provisioning: Build, modify, and scale your infrastructure across various cloud providers like AWS, Azure, Google Cloud, and more with ease.
