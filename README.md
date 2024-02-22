@@ -13,3 +13,4 @@ Terraform is an open-source infrastructure automation tool that allows you to de
 5. Version Control Integration: Seamlessly integrate Terraform with version control systems like Git to track changes and collaborate with your team effectively.
 6. Continuous Integration/Continuous Deployment (CI/CD): Automate your infrastructure deployments with CI/CD pipelines, enabling rapid and safe application delivery.
 7. Documentation and Guides: Access detailed documentation and guides to help you get started, deploy new resources, and troubleshoot any issues.
+
