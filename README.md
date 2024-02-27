@@ -14,3 +14,28 @@ Terraform is an open-source infrastructure automation tool that allows you to de
 6. Continuous Integration/Continuous Deployment (CI/CD): Automate your infrastructure deployments with CI/CD pipelines, enabling rapid and safe application delivery.
 7. Documentation and Guides: Access detailed documentation and guides to help you get started, deploy new resources, and troubleshoot any issues.
 
+
+### Terraform Use Cases
+
+1. Enforce policy as code
+2. Infrastructure as code
+3. Multi-Cloud provisioning
+4. Network infrastructure automation
+5. Manage Kubernetes
+6. Inject secrets into Terraform
+7. Manage virtual machine images
+
+### Terraform Links
+
+1. Terraform download
+
+https://developer.hashicorp.com/terraform/downloads
+
+2. Terraform Docs
+
+https://developer.hashicorp.com/terraform
+
+3. Terraform Registry
+
+https://registry.terraform.io
+
