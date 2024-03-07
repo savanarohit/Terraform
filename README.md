@@ -26,7 +26,7 @@ Terraform is an open-source infrastructure automation tool that allows you to de
 
 ### Terraform Links
 
-1. Terraform download: <a>Terraform download https://developer.hashicorp.com/terraform/downloads </a>
+1. Terraform download: <a>https://developer.hashicorp.com/terraform/downloads </a>
 2. Terraform Docs: <a>https://developer.hashicorp.com/terraform</a>
 3. Terraform Registry: <a>https://registry.terraform.io</a>
 
