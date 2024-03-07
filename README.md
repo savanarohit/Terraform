@@ -2,7 +2,7 @@
 
 Welcome to the "Terraform" github repository - your hub for Infrastructure as Code (IaC) using Terraform!
 
-Terraform is an open-source infrastructure automation tool that allows you to define and manage cloud infrastructure declaratively. This repository serves as your go-to resource for learning Terraform to managing your infrastructure in a scalable, repeatable, and efficient manner.
+Terraform is an open-source infrastructure automation tool that allows you to define and manage cloud infrastructure declaratively. This repository is your go-to resource for learning Terraform to manage your infrastructure in a scalable, repeatable, and efficient manner.
 
 ### Terraform Key Features:
 
@@ -13,7 +13,6 @@ Terraform is an open-source infrastructure automation tool that allows you to de
 5. Version Control Integration: Seamlessly integrate Terraform with version control systems like Git to track changes and collaborate with your team effectively.
 6. Continuous Integration/Continuous Deployment (CI/CD): Automate your infrastructure deployments with CI/CD pipelines, enabling rapid and safe application delivery.
 7. Documentation and Guides: Access detailed documentation and guides to help you get started, deploy new resources, and troubleshoot any issues.
-
 
 ### Terraform Use Cases
 
@@ -27,15 +26,9 @@ Terraform is an open-source infrastructure automation tool that allows you to de
 
 ### Terraform Links
 
-1. Terraform download
+1. Terraform download: <a>Terraform download https://developer.hashicorp.com/terraform/downloads </a>
+2. Terraform Docs: <a>https://developer.hashicorp.com/terraform</a>
+3. Terraform Registry: <a>https://registry.terraform.io</a>
 
-<a>Terraform download https://developer.hashicorp.com/terraform/downloads </a>
 
-2. Terraform Docs
-
-https://developer.hashicorp.com/terraform
-
-3. Terraform Registry
-
-https://registry.terraform.io
 
